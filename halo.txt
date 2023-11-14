@@ -1,8 +1,12 @@
 siapa nama kapten alfan
 halo
+<<<<<<< HEAD
 hai
 
 bingung nulis apa
 hai
 tanggal berapa hari ini
 hai
+=======
+hai
+>>>>>>> parent of 7012112 (ubah file)
